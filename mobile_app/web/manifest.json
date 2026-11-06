@@ -1,0 +1,11 @@
+{
+  "name": "ক্ষুদ্রঋণ সেবা",
+  "short_name": "ক্ষুদ্রঋণ",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#004D40",
+  "theme_color": "#00695C",
+  "description": "Microcredit Borrower Mobile App for Bangladesh",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
